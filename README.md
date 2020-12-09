@@ -7,7 +7,8 @@ There is a bot feature that is a bit tricky and can help you to cheat within the
 
 ## Features
 1. Play in mobile or Computer. For computer the dragon can jump by the response of the spacebar click and also by clicking on the jump button. For Smartphones there is a click button which allows the Dragon to Jump. 
-2. The Bot button is used to make the dragon run automatically, you can just click the bot button and the dragon will jump on it's own whenever it gets a hurdle , Preety Interesting!! correct? To stop the bot action click on the bot button again and the drag forgets to detect the hurdle infront of itself. (Shh! Don't tell this secret to others)
+2. The Bot button is used to make the dragon run automatically, you can just click the bot button and the dragon will jump on it's own whenever it gets a hurdle , Preety Interesting!! correct? To stop the bot action click on the bot button again and the drag forgets to detect the hurdle infront of itself. (Shh! Don't tell this secret to others).
+The game has two version, Dragon-v1 (Without bot feature) and Dragon-v2(With bot Feature).
 3. Did you know you can get the highest score of all times? The browsers memory is used to save the high score in a particular browser, Go on brag about your high score to others and challenge them in the game.
 
 ## How to run
